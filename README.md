@@ -33,3 +33,9 @@ Los documentos utilizados son:
 ```bash
 pip install -r requirements.txt
 # Luego abrir el notebook en Google Colab o ejecutar el código
+
+
+## Evidencia de Deploy en OCI
+Instancia creada / intentada en Oracle Cloud Infrastructure (Always Free).
+
+![Evidencia OCI](oci-evidencia.png)
